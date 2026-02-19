@@ -2,5 +2,8 @@
     text-align: center;
 }
 h2 {
-    color: #2e86de;
-} 
+    color: white;
+}
+h1 {
+    border: 2px dotted black;
+}
